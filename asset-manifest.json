@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-computerVision/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-computerVision/static/js/main.a716934e.chunk.js",
+    "main.js.map": "/react-computerVision/static/js/main.a716934e.chunk.js.map",
+    "runtime-main.js": "/react-computerVision/static/js/runtime-main.79692551.js",
+    "runtime-main.js.map": "/react-computerVision/static/js/runtime-main.79692551.js.map",
+    "static/js/2.dcd97d6d.chunk.js": "/react-computerVision/static/js/2.dcd97d6d.chunk.js",
+    "static/js/2.dcd97d6d.chunk.js.map": "/react-computerVision/static/js/2.dcd97d6d.chunk.js.map",
+    "index.html": "/react-computerVision/index.html",
+    "precache-manifest.872d1c55b96c8d246d33001f5c43e2b8.js": "/react-computerVision/precache-manifest.872d1c55b96c8d246d33001f5c43e2b8.js",
+    "service-worker.js": "/react-computerVision/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-computerVision/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.dcd97d6d.chunk.js.LICENSE.txt": "/react-computerVision/static/js/2.dcd97d6d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79692551.js",
+    "static/js/2.dcd97d6d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a716934e.chunk.js"
+  ]
+}
