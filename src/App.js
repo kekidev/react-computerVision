@@ -45,6 +45,8 @@ function App() {
 
   return (
     <div className="App">
+      <h1>There are some glitches </h1>
+      <h3>This is my first tensorflow js webapp</h3>
       <header className="App-header">
         <Webcam
           ref={webcamRef}
